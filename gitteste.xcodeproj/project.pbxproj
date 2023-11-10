@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B68DCED22AFEC55800660B0F /* user.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68DCED12AFEC55800660B0F /* user.swift */; };
 		CEB262B82AFEC239001DB31F /* gittesteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB262B72AFEC239001DB31F /* gittesteApp.swift */; };
 		CEB262BA2AFEC239001DB31F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB262B92AFEC239001DB31F /* ContentView.swift */; };
 		CEB262BC2AFEC23B001DB31F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEB262BB2AFEC23B001DB31F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B68DCED12AFEC55800660B0F /* user.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = user.swift; sourceTree = "<group>"; };
 		CEB262B42AFEC239001DB31F /* gitteste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitteste.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB262B72AFEC239001DB31F /* gittesteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gittesteApp.swift; sourceTree = "<group>"; };
 		CEB262B92AFEC239001DB31F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CEB262B92AFEC239001DB31F /* ContentView.swift */,
 				CEB262C52AFEC24C001DB31F /* SwiftUIView.swift */,
 				CEB262C72AFEC259001DB31F /* Itens.swift */,
+				B68DCED12AFEC55800660B0F /* user.swift */,
 				CEB262BB2AFEC23B001DB31F /* Assets.xcassets */,
 				CEB262BD2AFEC23B001DB31F /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B68DCED22AFEC55800660B0F /* user.swift in Sources */,
 				CEB262BA2AFEC239001DB31F /* ContentView.swift in Sources */,
 				CEB262C82AFEC259001DB31F /* Itens.swift in Sources */,
 				CEB262B82AFEC239001DB31F /* gittesteApp.swift in Sources */,
